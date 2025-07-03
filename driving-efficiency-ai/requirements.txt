@@ -1,0 +1,5 @@
+pandas
+joblib
+matplotlib
+scikit-learn
+tk
